@@ -154,13 +154,9 @@ body > section {
 	border: 2px solid #2e2c2d;
 }
 
-#mempic {
+#mappic {
 	float: left;
-}
-
-#mappic img {
-	float: left;
-	width: 100%;
+	width: 600px;
 }
 
 
