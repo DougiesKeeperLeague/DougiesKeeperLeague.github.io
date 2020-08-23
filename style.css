@@ -55,11 +55,11 @@ nav ul {
 }
 main {
 	float: left;
-	width: 60%;
+	width: 65%;
 }
 aside {
 	float: right;
-	width: 35%;
+	width: 30%;
 }
 aside a {
 	color: #FFF;
