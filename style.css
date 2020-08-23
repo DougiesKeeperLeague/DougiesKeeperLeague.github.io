@@ -154,6 +154,11 @@ body > section {
 	border: 2px solid #2e2c2d;
 }
 
+#mappic img {
+	float: left;
+	width: 60%;
+}
+
 
 @media screen and (max-width: 1000px) {
 	body > section {
