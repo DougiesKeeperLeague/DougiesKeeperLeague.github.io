@@ -154,11 +154,6 @@ body > section {
 	border: 2px solid #2e2c2d;
 }
 
-#mappic {
-	float: left;
-	padding: 0px 20px 0px 0px;
-}
-
 #mappic img {
 	float: left;
 	width: 90%;
